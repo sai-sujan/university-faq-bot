@@ -20,8 +20,8 @@ An interactive, memory-aware chatbot built using **LangChain**, **Google Gemini*
 ### 🖼️ Interface Preview
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/98d22259-7b37-4689-bdd8-13c92785a97e" alt="Chat Window View 1" width="78%" />
-  <img src="https://github.com/user-attachments/assets/ae85a9ff-c163-46b0-89b7-ec6dabe1f2cf" alt="Chat Window View 2" width="78%" />
+  <img src="https://github.com/user-attachments/assets/98d22259-7b37-4689-bdd8-13c92785a97e" alt="Chat Window View 1"  />
+  <img src="https://github.com/user-attachments/assets/ae85a9ff-c163-46b0-89b7-ec6dabe1f2cf" alt="Chat Window View 2"  />
 </div>
 
 ---
