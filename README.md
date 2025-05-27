@@ -7,10 +7,17 @@ An interactive, memory-aware chatbot built using **LangChain**, **Google Gemini*
 ## 🚀 Features
 
 * 🤖 Powered by **Google Gemini**
+
+  
 * 🧱 Uses **LangChain components**:
   * 🧱 **PromptTemplate** – a flexible prompt with placeholders for dynamic user inputs.
+    
   * 🔗 **LLMChain** – a structured pipeline that connects the prompt to the language model and captures the output.
+    
   * 🧠 **ConversationBufferMemory** – short-term memory that gives the bot context across multiple turns.
+
+
+
 * 💬 **Multi-session support** – switch between chats or start fresh
 * 🌐 Clean UI with **Streamlit**
 * 🔐 Secure key loading via `.env`
